@@ -74,7 +74,7 @@ app.get('/map-data', (req, res) => {
     },
   };
 
-  request.get(process.env.ENDPOINT_URL, requestOptions, (error, response, body) => {
+  request.get('https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases', requestOptions, (error, response, body) => {
     if (response && response.statusCode === 200) {
       const mapData = [];
 
