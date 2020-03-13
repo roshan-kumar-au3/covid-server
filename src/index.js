@@ -31,9 +31,7 @@ app.use(compression());
 app.use(morgan('common'));
 app.use(helmet());
 app.use(express.json());
-app.use(cors({
-  origin: process.env.CORS_ORIGIN,
-}));
+app.use(cors());
 app.use(rateLimit({
   windowMs: 5 * 60 * 1000,
   max: 10,
