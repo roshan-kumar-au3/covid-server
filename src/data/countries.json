@@ -4756,7 +4756,7 @@
         "region": "Africa",
         "subregion": "Eastern Africa",
         "latlng": [
-            26.52,
+            -26.56,
             31.46
         ]
     },
@@ -4774,7 +4774,7 @@
         "subregion": "Eastern Africa",
         "latlng": [
             12.23,
-            1.56
+            -1.30
         ]
     },
     {
@@ -4790,8 +4790,8 @@
         "region": "Africa",
         "subregion": "Eastern Africa",
         "latlng": [
-            12.23,
-            1.56
+            -6.47,
+            35.36
         ]
     }
 ]
