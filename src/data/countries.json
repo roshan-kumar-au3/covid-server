@@ -162,7 +162,7 @@
     {
         "flag": "https://restcountries.eu/data/atg.svg",
         "cioc": "ANT",
-        "name": "Antigua and Barbuda",
+        "name": "Antigua_and_Barbuda",
         "alpha2Code": "AG",
         "alpha3Code": "ATG",
         "altSpellings": [
@@ -508,7 +508,7 @@
     {
         "flag": "https://restcountries.eu/data/bih.svg",
         "cioc": "BIH",
-        "name": "Bosnia and Herzegovina",
+        "name": "Bosnia_and_Herzegovina",
         "alpha2Code": "BA",
         "alpha3Code": "BIH",
         "altSpellings": [
@@ -645,7 +645,7 @@
     {
         "flag": "https://restcountries.eu/data/brn.svg",
         "cioc": "BRU",
-        "name": "Brunei Darussalam",
+        "name": "Brunei_Darussalam",
         "alpha2Code": "BN",
         "alpha3Code": "BRN",
         "altSpellings": [
@@ -1004,7 +1004,7 @@
     {
         "flag": "https://restcountries.eu/data/cri.svg",
         "cioc": "CRC",
-        "name": "Costa Rica",
+        "name": "Costa_Rica",
         "alpha2Code": "CR",
         "alpha3Code": "CRI",
         "altSpellings": [
@@ -1101,7 +1101,7 @@
     {
         "flag": "https://restcountries.eu/data/cze.svg",
         "cioc": "CZE",
-        "name": "Czech Republic",
+        "name": "Czech_Republic",
         "alpha2Code": "CZ",
         "alpha3Code": "CZE",
         "altSpellings": [
@@ -1179,7 +1179,7 @@
     {
         "flag": "https://restcountries.eu/data/dom.svg",
         "cioc": "DOM",
-        "name": "Dominican Republic",
+        "name": "Dominican_Republic",
         "alpha2Code": "DO",
         "alpha3Code": "DOM",
         "altSpellings": [
@@ -1784,7 +1784,7 @@
     {
         "flag": "https://restcountries.eu/data/vat.svg",
         "cioc": "",
-        "name": "Holy See",
+        "name": "Holy_See",
         "alpha2Code": "VA",
         "alpha3Code": "VAT",
         "altSpellings": [
@@ -2870,7 +2870,7 @@
     {
         "flag": "https://restcountries.eu/data/nzl.svg",
         "cioc": "NZL",
-        "name": "New Zealand",
+        "name": "New_Zealand",
         "alpha2Code": "NZ",
         "alpha3Code": "NZL",
         "altSpellings": [
@@ -3448,7 +3448,7 @@
     {
         "flag": "https://restcountries.eu/data/lca.svg",
         "cioc": "LCA",
-        "name": "Saint Lucia",
+        "name": "Saint_Lucia",
         "alpha2Code": "LC",
         "alpha3Code": "LCA",
         "altSpellings": [
@@ -3499,7 +3499,7 @@
     {
         "flag": "https://restcountries.eu/data/vct.svg",
         "cioc": "VIN",
-        "name": "Saint Vincent and the Grenadines",
+        "name": "Saint_Vincent_and_the_Grenadines",
         "alpha2Code": "VC",
         "alpha3Code": "VCT",
         "altSpellings": [
@@ -3533,7 +3533,7 @@
     {
         "flag": "https://restcountries.eu/data/smr.svg",
         "cioc": "SMR",
-        "name": "San Marino",
+        "name": "San_Marino",
         "alpha2Code": "SM",
         "alpha3Code": "SMR",
         "altSpellings": [
@@ -3569,7 +3569,7 @@
     {
         "flag": "https://restcountries.eu/data/sau.svg",
         "cioc": "KSA",
-        "name": "Saudi Arabia",
+        "name": "Saudi_Arabia",
         "alpha2Code": "SA",
         "alpha3Code": "SAU",
         "altSpellings": [
@@ -3838,7 +3838,7 @@
     {
         "flag": "https://restcountries.eu/data/lka.svg",
         "cioc": "SRI",
-        "name": "Sri Lanka",
+        "name": "Sri_Lanka",
         "alpha2Code": "LK",
         "alpha3Code": "LKA",
         "altSpellings": [
@@ -4139,7 +4139,7 @@
     {
         "flag": "https://restcountries.eu/data/tto.svg",
         "cioc": "TTO",
-        "name": "Trinidad and Tobago",
+        "name": "Trinidad_and_Tobago",
         "alpha2Code": "TT",
         "alpha3Code": "TTO",
         "altSpellings": [
@@ -4276,7 +4276,7 @@
     {
         "flag": "https://restcountries.eu/data/are.svg",
         "cioc": "UAE",
-        "name": "United Arab Emirates",
+        "name": "United_Arab_Emirates",
         "alpha2Code": "AE",
         "alpha3Code": "ARE",
         "altSpellings": [
@@ -4311,7 +4311,7 @@
     {
         "flag": "https://restcountries.eu/data/usa.svg",
         "cioc": "USA",
-        "name": "United States of America",
+        "name": "United_States_of_America",
         "alpha2Code": "US",
         "alpha3Code": "USA",
         "altSpellings": [
@@ -4508,7 +4508,7 @@
     {
         "flag": "https://restcountries.eu/data/zwe.svg",
         "cioc": "ZIM",
-        "name": "South Korea",
+        "name": "South_Korea",
         "alpha2Code": "ZW",
         "alpha3Code": "ZWE",
         "altSpellings": [
@@ -4576,7 +4576,7 @@
     {
         "flag": "https://restcountries.eu/data/zwe.svg",
         "cioc": "ZIM",
-        "name": "United Kingdom",
+        "name": "United_Kingdom",
         "alpha2Code": "ZW",
         "alpha3Code": "ZWE",
         "altSpellings": [
@@ -4610,7 +4610,7 @@
     {
         "flag": "https://restcountries.eu/data/zwe.svg",
         "cioc": "ZIM",
-        "name": "North Macedonia",
+        "name": "North_Macedonia",
         "alpha2Code": "ZW",
         "alpha3Code": "ZWE",
         "altSpellings": [
@@ -4661,7 +4661,7 @@
     {
         "flag": "https://restcountries.eu/data/zwe.svg",
         "cioc": "ZIM",
-        "name": "Cases on an international conveyance Japan",
+        "name": "Cases_on_an_international_conveyance_Japan",
         "alpha2Code": "ZW",
         "alpha3Code": "ZWE",
         "altSpellings": [
