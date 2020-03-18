@@ -801,7 +801,7 @@
     {
         "flag": "https://restcountries.eu/data/caf.svg",
         "cioc": "CAF",
-        "name": "Central African Republic",
+        "name": "Central_African_Republic",
         "alpha2Code": "CF",
         "alpha3Code": "CAF",
         "altSpellings": [
@@ -1248,7 +1248,7 @@
     {
         "flag": "https://restcountries.eu/data/gnq.svg",
         "cioc": "GEQ",
-        "name": "Equatorial Guinea",
+        "name": "Equatorial_Guinea",
         "alpha2Code": "GQ",
         "alpha3Code": "GNQ",
         "altSpellings": [
@@ -3768,7 +3768,7 @@
     {
         "flag": "https://restcountries.eu/data/zaf.svg",
         "cioc": "RSA",
-        "name": "South Africa",
+        "name": "South_Africa",
         "alpha2Code": "ZA",
         "alpha3Code": "ZAF",
         "altSpellings": [
@@ -4029,7 +4029,7 @@
     {
         "flag": "https://restcountries.eu/data/tza.svg",
         "cioc": "TAN",
-        "name": "Tanzania, United Republic of",
+        "name": "United_Republic_of_Tanzania",
         "alpha2Code": "TZ",
         "alpha3Code": "TZA",
         "altSpellings": [
@@ -4678,7 +4678,7 @@
     {
         "flag": "https://restcountries.eu/data/zwe.svg",
         "cioc": "ZIM",
-        "name": "Cote dIvoire",
+        "name": "Cote_dIvoire",
         "alpha2Code": "ZW",
         "alpha3Code": "ZWE",
         "altSpellings": [
@@ -4695,7 +4695,7 @@
     {
         "flag": "https://restcountries.eu/data/zwe.svg",
         "cioc": "ZIM",
-        "name": "Democratic Republic of the Congo",
+        "name": "Democratic_Republic_of_the_Congo",
         "alpha2Code": "ZW",
         "alpha3Code": "ZWE",
         "altSpellings": [

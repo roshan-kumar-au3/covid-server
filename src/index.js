@@ -91,6 +91,10 @@ app.get('/map-data', (req, res) => {
           if (country.name.toLowerCase() === countryTerritoryArea.toLowerCase()) {
             latilong = country.latlng;
           }
+          // if (countryTerritoryArea === 'America') {
+          //   // eslint-disable-next-line no-plusplus
+          //   idx++;
+          // }
         }
 
 
@@ -103,6 +107,12 @@ app.get('/map-data', (req, res) => {
         });
       });
       mapData.pop();
+      // eslint-disable-next-line no-restricted-syntax
+      for (const country of mapData) {
+        if (country.countryTerritoryArea === 'America') {
+          mapData.pop(country);
+        }
+      }
       res.json(mapData);
     } else {
       res.status(500);
