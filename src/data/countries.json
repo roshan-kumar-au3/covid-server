@@ -4827,5 +4827,56 @@
             13.66,
             -89.13
         ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zwe.svg",
+        "cioc": "ZIM",
+        "name": "Cayman_Islands",
+        "alpha2Code": "ZW",
+        "alpha3Code": "ZWE",
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "latlng": [
+             19.32,
+            -81.22
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zwe.svg",
+        "cioc": "ZIM",
+        "name": "Faroe_Islands",
+        "alpha2Code": "ZW",
+        "alpha3Code": "ZWE",
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "latlng": [
+            -62.13,
+            -6.98
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zwe.svg",
+        "cioc": "ZIM",
+        "name": "Netherlands_Antilles",
+        "alpha2Code": "ZW",
+        "alpha3Code": "ZWE",
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "latlng": [
+            12.18,
+            -68.25
+        ]
     }
 ]
