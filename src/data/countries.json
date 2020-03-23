@@ -4963,5 +4963,22 @@
             -8.80,
             125.93
         ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zwe.svg",
+        "cioc": "ZIM",
+        "name": "Syria",
+        "alpha2Code": "ZW",
+        "alpha3Code": "ZWE",
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "latlng": [
+            34.97,
+            38.52
+        ]
     }
 ]
