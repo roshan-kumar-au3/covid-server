@@ -4980,5 +4980,22 @@
             34.97,
             38.52
         ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zwe.svg",
+        "cioc": "ZIM",
+        "name": "United_States_Virgin_Islands",
+        "alpha2Code": "ZW",
+        "alpha3Code": "ZWE",
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "latlng": [
+            17.73,
+            -64.78
+        ]
     }
 ]
