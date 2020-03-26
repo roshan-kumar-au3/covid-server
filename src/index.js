@@ -112,9 +112,6 @@ app.get('/map-data', (req, res) => {
         if (country.countryTerritoryArea === 'America') {
           mapData.pop(country);
         }
-        if (country.countryTerritoryArea === 'Other') {
-          mapData.pop(country);
-        }
       }
       res.json(mapData);
     } else {
