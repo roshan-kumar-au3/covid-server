@@ -109,7 +109,10 @@ app.get('/map-data', (req, res) => {
       mapData.pop();
       // eslint-disable-next-line no-restricted-syntax
       for (const country of mapData) {
-        if (country.countryTerritoryArea === 'America' || country.countryTerritoryArea === 'Other') {
+        if (country.countryTerritoryArea === 'America') {
+          mapData.pop(country);
+        }
+        if (country.countryTerritoryArea === 'Other') {
           mapData.pop(country);
         }
       }
