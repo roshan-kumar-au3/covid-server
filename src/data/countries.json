@@ -5184,6 +5184,23 @@
             -51.69,
             -58.50
         ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zwe.svg",
+        "cioc": "ZIM",
+        "name": "Sierra_Leone",
+        "alpha2Code": "ZW",
+        "alpha3Code": "ZWE",
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "latlng": [
+            8.50,
+            -11.76
+        ]
     }
 ]
 
