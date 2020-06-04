@@ -5269,6 +5269,23 @@
             24.657737,
             -13.336089
         ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zwe.svg",
+        "cioc": "ZIM",
+        "name": "Czechia",
+        "alpha2Code": "ZW",
+        "alpha3Code": "ZWE",
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "latlng": [
+            50.061822,
+            14.471705
+        ]
     }
 ]
 
